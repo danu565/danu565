@@ -23,7 +23,7 @@
 
 ---
 
-## 🖼️ My Poster
+
 <p align="center">
   <img src="./poster.png" width="800" />
 </p>
@@ -44,10 +44,11 @@
 
 ## 🌐 Connect with Me
 - GitHub: https://github.com/danu565
+- Linkedin : https://www.linkedin.com/in/danu-anggo-aji-prasetyo-67a868384
 - Instagram: https://www.instagram.com/danu_anggo
 - Project : https://mijurnal.com/
 - Project : https://smart.hummatech.com
-- Portfolio: --Comingsoon
+- Portfolio: Comingsoon
 
 ---
 
