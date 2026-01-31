@@ -28,7 +28,6 @@
   <img src="./poster.png" width="800" />
 </p>
 
-> Ganti `poster.png` dengan gambar milikmu (lihat langkah 3)
 
 ---
 
