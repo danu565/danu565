@@ -45,6 +45,7 @@
 ## 🌐 Connect with Me
 - GitHub: https://github.com/danu565
 - Portfolio: coming soon 🚀
+- Instagram: https://www.instagram.com/danu_anggo
 
 ---
 
