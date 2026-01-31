@@ -1,4 +1,4 @@
-<h1 align="center">Welcome I'm Danu Anggo</h1>
+<h1 align="center">Welcome I</h1>
 <h3 align="center">Backend Developer | Laravel & API Enthusiast</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgreSQL,git,github,docker,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgre,git,github,docker,linux,postman,golang" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🌐 Connect with Me
 - GitHub: https://github.com/danu565
 - Instagram: https://www.instagram.com/danu_anggo
-- Portfolio: https://mijurnal.com | https//smart.hummatech.com/
+- Portfolio: https://mijurnal.com | https//smart.hummatech.com
 
 ---
 
